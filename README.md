@@ -25,4 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babymumthas&show_icons=true&locale=en&theme=dark" alt="babymumthas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babymumthas&theme=dark" alt="babymumthas" /></p>
+<div style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babymumthas&theme=dark" alt="GitHub Streak Stats" style="max-width: 100%; border-radius: 10px;" />
+</div>
