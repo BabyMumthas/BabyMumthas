@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **different programing languages and tech related things**
 
-- 📫 How to reach me **babymumthas@gmail.com**
+- 📫 How to reach me **babymumthas808@gmail.com**
 
 - ⚡ Fun fact **Hours can fly by when I'm infront of my monitor,coding away or exploring new Tech**
 
