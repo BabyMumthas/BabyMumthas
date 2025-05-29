@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babymumthas&label=Profile%20views&color=0e75b6&style=flat" alt="babymumthas" /> </p>
 
-- 🔭 I’m currently **a 2nd year student at SOE CUSAT.**
+- 🔭 I’m currently **a 3rd year student at SOE CUSAT.**
 
 - 🌱 I’m currently learning **different programing languages and tech related things**
 
