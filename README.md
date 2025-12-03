@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Baby Mumthas</h1>
 <h3 align="center">BTech IT Student at CUSAT</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img align="right" alt="Coding" width="350" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=babymumthas&label=Profile%20views&color=0e75b6&style=flat" alt="babymumthas" />
 </p>
 
 - 🔭 I’m currently **a 3rd year student at SOE CUSAT.**  
-- 🌱 - 🌱 I’m learning full-stack development with the MERN stack while experimenting with React, Next.js, TypeScript, and UI design—turning ideas into real, usable projects.
+- 🌱 I’m learning full-stack development with the MERN stack while experimenting with React, Next.js, TypeScript, and UI design—turning ideas into real, usable projects.
   
 - 📫 How to reach me **babymumthas808@gmail.com**  
 - ⚡ Fun fact: **Hours can fly by when I'm in front of my monitor, coding away or exploring new tech.**
 
----
+
 
 ### 🔗 Connect with me:
 <p align="left">
@@ -26,7 +26,7 @@
 </a>
 </p>
 
----
+
 
 ### 🛠️ Languages and Tools:
 <p align="left">
@@ -47,7 +47,7 @@
   </a>
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
