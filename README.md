@@ -51,14 +51,17 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=babymumthas&layout=compact&theme=dark" />
+<p align="left">
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=babymumthas&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babymumthas&show_icons=true&theme=dark" alt="stats" />
+<p align="left">
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=babymumthas&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=babymumthas&theme=dark" alt="GitHub Streak" />
+</p>
+">
  <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=babymumthas&show_icons=true&theme=dark" />
 </p>
