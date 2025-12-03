@@ -62,15 +62,3 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=babymumthas&theme=dark" alt="GitHub Streak" />
 </p>
-
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/babymumthas/babymumthas/output/dist/github-contribution-grid-snake.svg" />
-</p>
-
-
-
