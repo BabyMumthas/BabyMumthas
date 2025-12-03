@@ -62,6 +62,4 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=babymumthas&theme=dark" alt="GitHub Streak" />
 </p>
-">
- <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=babymumthas&show_icons=true&theme=dark" />
-</p>
+
