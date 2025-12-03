@@ -68,9 +68,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/babymumthas/babymumthas/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/babymumthas/babymumthas/output/dist/github-contribution-grid-snake.svg" />
 </p>
-
 
 
 
