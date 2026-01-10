@@ -47,9 +47,29 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BabyMumthas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BabyMumthas&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyMumthas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BabyMumthas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+
+</div>
 
 ---
 
@@ -57,17 +77,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codBee&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" />
-
-</div>
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babymumthas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=babymumthas&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=babymumthas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+<a href="https://wakatime.com/@codBee">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codBee&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&custom_title=Coding%20Activity" alt="WakaTime Stats" />
+</a>
 
 </div>
 
@@ -77,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=babymumthas&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BabyMumthas&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
