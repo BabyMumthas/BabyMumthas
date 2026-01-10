@@ -45,45 +45,23 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 </p>
 
----
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BabyMumthas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BabyMumthas&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyMumthas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BabyMumthas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+![Baby Mumthas's most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BabyMumthas&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact)
+
+[![Baby Mumthas's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BabyMumthas&hide=issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=true)](https://github.com/BabyMumthas/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babymumthas&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## ⏱️ WakaTime Coding Stats
-
-<div align="center">
-
-<a href="https://wakatime.com/@codBee">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codBee&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&custom_title=Coding%20Activity" alt="WakaTime Stats" />
-</a>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
