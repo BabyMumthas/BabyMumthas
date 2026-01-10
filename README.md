@@ -72,6 +72,7 @@
 </div>
 
 
+## ⏱️ WakaTime Coding Stats
 
 <div align="center">
 
@@ -82,7 +83,6 @@
 </div>
 
 ---
-
 <div align="center">
   
 ### 💖 Views & Visitors
