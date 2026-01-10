@@ -9,10 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=babymumthas&label=Profile%20views&color=0e75b6&style=flat" alt="babymumthas" />
 </p>
 
-- 🔭 I’m currently **a 3rd year student at SOE CUSAT.**
-- 🌱 I’m learning full-stack development with the MERN stack while experimenting with React, Next.js, TypeScript, and UI design—turning ideas into real, usable projects.
-- 📫 How to reach me **babymumthas808@gmail.com**
-- ⚡ Fun fact: **Hours can fly by when I'm in front of my monitor, coding away or exploring new tech.**
+### 👨‍💻 About Me:
+- 🔭 I'm currently **a 3rd year student at SOE CUSAT**
+- 🌱 Learning **MERN Stack, TypeScript, Next.js**
+- ⚡ Fun fact: **Hours fly by when I'm coding!**
+- 📫 Reach me: **babymumthas808@gmail.com**
 
 ### 🔗 Connect with me:
 <p align="left">
@@ -54,16 +55,29 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=babymumthas&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=babymumthas&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babymumthas&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=babymumthas&theme=dark" alt="GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babymumthas&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babymumthas&theme=tokyonight&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=babymumthas&theme=tokyonight&no-frame=true&row=1)
+
+</div>
+
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/babymumthas/count.svg)
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=babymumthas&theme=tokyonight)](https://wakatime.com/@babymumthas)
+
+![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=babymumthas&theme=react-dark&hide_border=true&area=true)
+
+
+
+</div>
