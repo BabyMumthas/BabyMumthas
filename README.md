@@ -5,9 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=babymumthas&label=Profile%20views&color=0e75b6&style=flat" alt="babymumthas" />
-</p>
+
 
 ### 👨‍💻 About Me:
 - 🔭 I'm currently **a 3rd year student at SOE CUSAT**
@@ -24,12 +22,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
-
-
-
-
-
-
 
 ### 🛠️ Languages and Tools:
 <p align="left">
@@ -59,25 +51,42 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babymumthas&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babymumthas&layout=compact&theme=tokyonight&hide_border=true)
+## ⏱️ WakaTime Coding Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babymumthas&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=babymumthas&theme=tokyonight&no-frame=true&row=1)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codBee&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" />
 
 </div>
 
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babymumthas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=babymumthas&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=babymumthas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=babymumthas&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/babymumthas/count.svg)
+### 💖 Views & Visitors
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=babymumthas&theme=tokyonight)](https://wakatime.com/@babymumthas)
-
-![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=babymumthas&theme=react-dark&hide_border=true&area=true)
-
-
+<img src="https://komarev.com/ghpvc/?username=babymumthas&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
