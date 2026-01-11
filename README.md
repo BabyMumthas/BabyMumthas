@@ -72,15 +72,21 @@
 </div>
 
 
+---
+
 ## ⏱️ WakaTime Coding Stats
 
 <div align="center">
 
 <a href="https://wakatime.com/@codBee">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codBee&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&custom_title=Weekly%20Coding%20Activity" />
+  <img src="https://img.shields.io/badge/WakaTime-Tracking%20Started-blueviolet?style=for-the-badge&logo=wakatime" alt="WakaTime" />
 </a>
 
+<p><i>📊 Coding stats will appear here after 24 hours of activity</i></p>
+
 </div>
+
+
 
 ---
 <div align="center">
