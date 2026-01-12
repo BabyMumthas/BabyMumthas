@@ -65,6 +65,77 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%201%20min-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.34%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 65.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 71 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                77 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+🌆 Daytime                122 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+🌃 Evening                202 commits         ████████████░░░░░░░░░░░░░   46.12 % 
+🌙 Night                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   132 commits         ████████░░░░░░░░░░░░░░░░░   30.14 % 
+Tuesday                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Wednesday                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Thursday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Sunday                   79 commits          █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               1 hr 44 mins        ████████████████████████░   97.40 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+
+🔥 Editors: 
+VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Quick-chat-app           1 hr 34 mins        ██████████████████████░░░   87.52 % 
+abc                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+
+💻 Operating System: 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            ████████████████░░░░░░░░░   62.50 % 
+CSS                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+
+ Last Updated on 12/01/2026 20:07:42 UTC
 <!--END_SECTION:waka-->
 
 ---
