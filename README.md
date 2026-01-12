@@ -64,15 +64,8 @@
 
 ## 📊 Weekly Development Breakdown
 
----
-
-## ⏱️ WakaTime Coding Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codBee&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&custom_title=Weekly%20Coding%20Stats" />
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
