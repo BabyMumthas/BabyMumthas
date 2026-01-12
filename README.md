@@ -62,15 +62,7 @@
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BabyMumthas&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
-
+## 📊 Weekly Development Breakdown
 
 ---
 
@@ -82,10 +74,21 @@
 
 </div>
 
-
-
+---
 
 ---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BabyMumthas&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+
+
+
 <div align="center">
   
 ### 💖 Views & Visitors
