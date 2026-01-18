@@ -71,9 +71,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 65.6 kB Used in GitHub's Storage 
+> 📦 65.5 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2026
+> 🏆 77 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                77 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-🌆 Daytime                129 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌃 Evening                202 commits         ███████████░░░░░░░░░░░░░░   45.29 % 
-🌙 Night                  38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+🌞 Morning                77 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+🌆 Daytime                129 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌃 Evening                204 commits         ███████████░░░░░░░░░░░░░░   45.54 % 
+🌙 Night                  38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   132 commits         ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-Tuesday                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Wednesday                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Thursday                 44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Friday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Sunday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Monday                   132 commits         ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+Tuesday                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Wednesday                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Thursday                 44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Friday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Sunday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 ```
 
 
@@ -108,36 +108,36 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 44 mins       ███████████████████████░░   92.87 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+JavaScript               3 hrs 43 mins       ███████████████████████░░   92.84 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  4 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Quick-chat-app           3 hrs 48 mins       ████████████████████████░   94.45 % 
-abc                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Quick-chat-app           3 hrs 47 mins       ████████████████████████░   94.43 % 
+abc                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  4 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               16 repos            ████████████████░░░░░░░░░   64.00 % 
-CSS                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               17 repos            ████████████████░░░░░░░░░   65.38 % 
+CSS                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 17/01/2026 01:53:05 UTC
+ Last Updated on 18/01/2026 02:05:48 UTC
 <!--END_SECTION:waka-->
 
 ---
