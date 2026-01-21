@@ -108,17 +108,16 @@ Sunday                   86 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               35 mins             ██████████████████████░░░   88.99 % 
-Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Quick-chat-app           39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +133,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2026 01:58:50 UTC
+ Last Updated on 21/01/2026 02:01:40 UTC
 <!--END_SECTION:waka-->
 
 ---
