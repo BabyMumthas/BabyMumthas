@@ -4,7 +4,11 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+
+</div>
 
 <div align="center">
 
@@ -14,13 +18,21 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BabyMumthas&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+
+</div>
 
 <img align="right" alt="Coding" width="380" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
@@ -31,20 +43,33 @@
 - ⚡ Fun fact: **Hours fly by when I'm coding!**
 - 📫 Reach me: **babymumthas808@gmail.com**
 
----
+<div align="center">
 
-### 🔗 Connect With Me
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
 
-<p align="left">
-<a href="https://www.linkedin.com/in/baby-mumthas/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-</a>
-<a href="https://instagram.com/_baby_mumthas_" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="35" />
-</a>
+</div>
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/baby-mumthas-6155852a2">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_baby_mumthas_">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/BabyMumthas">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:babymumthas786@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+
+</div>
 
 ### 🛠️ Languages & Tools
 
@@ -85,7 +110,11 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+
+</div>
 
 
 
@@ -102,7 +131,11 @@
 > 🏆 229 Contributions in the Year 2026  
 
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+
+</div>
 
 ### ⏰ Coding Activity
 
@@ -160,7 +193,11 @@ TypeScript               1 repo              █░░░░░░░░░░�
  Last Updated on 17/04/2026 02:50:31 UTC
 <!--END_SECTION:waka-->
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+
+</div>
 
 
 
