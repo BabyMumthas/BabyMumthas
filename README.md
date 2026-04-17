@@ -1,39 +1,26 @@
-<div align="center">
+<div align="left">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There!%20I'm%20Baby%20Mumthas%20✨&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
 
+  Hey There! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+
+
+<h1 style="color:#8B5CF6; font-family: 'Fira Code', monospace;">
+  I'm Baby Mumthas ✨
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-
-</div>
+<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Passionate+Coder+💻;Tech+Enthusiast+🚀;Building+Cool+Things+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Passionate+Coder+💻;MERN+Stack+Developer;Full+Stack+Developer;Tech+Enthusiast+🚀;Building+Cool+Things+✨;Always+Learning+New+Tech+🔥" />
 
 <h3>🎓 BTech IT Student at CUSAT (SOE)</h3>
 
 </div>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BabyMumthas&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-
-</div>
-
+<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
 <img align="right" alt="Coding" width="380" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 ### 👨‍💻 About Me
@@ -43,12 +30,7 @@
 - ⚡ Fun fact: **Hours fly by when I'm coding!**
 - 📫 Reach me: **babymumthas808@gmail.com**
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-
-</div>
-
+<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
 ### 🤝 Connect With Me
 
 <p align="center">
@@ -65,11 +47,7 @@
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-
-</div>
+<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
 
 ### 🛠️ Languages & Tools
 
@@ -110,11 +88,7 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-
-</div>
+<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
 
 
 
@@ -131,12 +105,7 @@
 > 🏆 229 Contributions in the Year 2026  
 
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-
-</div>
-
+<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
 ### ⏰ Coding Activity
 
 **I'm a Night 🦉** 
@@ -193,11 +162,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
  Last Updated on 17/04/2026 02:50:31 UTC
 <!--END_SECTION:waka-->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-
-</div>
+<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
 
 
 
@@ -222,6 +187,3 @@ TypeScript               1 repo              █░░░░░░░░░░�
 </div>
 
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false" />
