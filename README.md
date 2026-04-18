@@ -101,30 +101,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 112.6 kB Used in GitHub's Storage  
-> 🏆 229 Contributions in the Year 2026  
-
-
-<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
-### ⏰ Coding Activity
-
+> 📦 114.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 238 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-🌆 Daytime                168 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-🌃 Evening                283 commits         ████████████░░░░░░░░░░░░░   47.09 % 
-🌙 Night                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+🌞 Morning                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+🌆 Daytime                168 commits         ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+🌃 Evening                294 commits         ████████████░░░░░░░░░░░░░   47.27 % 
+🌙 Night                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   151 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Tuesday                  79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Wednesday                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Saturday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Sunday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Monday                   151 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Tuesday                  79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Wednesday                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Friday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Saturday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Sunday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 ```
 
 
@@ -159,7 +163,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2026 02:50:31 UTC
+ Last Updated on 18/04/2026 02:40:52 UTC
 <!--END_SECTION:waka-->
 
 <hr style="border: none; height: 1px; background-color: white; width: 100%;" />
