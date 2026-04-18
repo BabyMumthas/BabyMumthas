@@ -51,7 +51,7 @@
 
 ### 🛠️ Languages & Tools
 
-<div align="center">
+<div align="left">
 
 #### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,dart" />
