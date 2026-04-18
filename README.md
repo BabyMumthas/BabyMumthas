@@ -21,16 +21,16 @@
 
 
 <hr style="border: none; height: 1px; background-color: white; width: 100%;" />
-<img align="right" alt="Coding" width="380" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-### 👨‍💻 About Me
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="320" align="right"/>
 
-- 🔭 I'm currently **a 3rd year student at SOE CUSAT**
+### 🧠 About Me
+
+- 🎓 I'm currently a **3rd year student at SOE CUSAT**
 - 🌱 Learning **MERN Stack, TypeScript, Next.js**
 - ⚡ Fun fact: **Hours fly by when I'm coding!**
 - 📫 Reach me: **babymumthas808@gmail.com**
 
-<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
 ### 🤝 Connect With Me
 
 <p align="center">
