@@ -1,21 +1,21 @@
-<div align="left">
+<div align="center">
 
-
+<h2> 
   Hey There! 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-
+</h2>
 
 <h1 style="color:#8B5CF6; font-family: 'Fira Code', monospace;">
   I'm Baby Mumthas ✨
 </div>
 
-<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
+
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Passionate+Coder+💻;MERN+Stack+Developer;Full+Stack+Developer;Tech+Enthusiast+🚀;Building+Cool+Things+✨;Always+Learning+New+Tech+🔥" />
 
-<h3>🎓 BTech IT Student at CUSAT (SOE)</h3>
+
 
 </div>
 
