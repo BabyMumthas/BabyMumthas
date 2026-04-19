@@ -79,13 +79,34 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BabyMumthas&hide=issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=true" />
 
+
+
+</td>
+<td width="45%"  valign="middle">
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BabyMumthas&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=babymumthas&theme=tokyonight&hide_border=true" />
 
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+<table>
+  <tr> 
+    <td align="left" width="100%">
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=babymumthas&theme=tokyonight&hide_border=true" />
+</td> 
+  </tr> 
+</table> 
+</div>
 </div>
 
 <hr style="border: none; height: 1px; background-color: white; width: 100%;" />
