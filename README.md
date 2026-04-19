@@ -19,10 +19,10 @@
 
 </div>
 
-
-<hr style="border: none; height: 1px; background-color: white; width: 100%;" />
-
 <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="320" align="right"/>
+
+
+
 
 ### 🧠 About Me
 
