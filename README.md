@@ -126,12 +126,7 @@
  > 
 > 🏆 187 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
+
 **I'm a Night 🦉** 
 
 ```text
