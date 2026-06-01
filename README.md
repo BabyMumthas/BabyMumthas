@@ -122,29 +122,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 122.2 kB Used in GitHub's Storage 
+> 📦 149.4 kB Used in GitHub's Storage 
  > 
-> 🏆 187 Contributions in the Year 2026
+> 🏆 188 Contributions in the Year 2026
  > 
-
+> 🚫 Not Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                111 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-🌃 Evening                304 commits         ████████████░░░░░░░░░░░░░   47.50 % 
-🌙 Night                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌞 Morning                111 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+🌃 Evening                308 commits         ████████████░░░░░░░░░░░░░   47.83 % 
+🌙 Night                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   152 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Tuesday                  81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Wednesday                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Friday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Saturday                 99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Sunday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Monday                   152 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Tuesday                  81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Friday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Saturday                 99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Sunday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 ```
 
 
@@ -169,17 +174,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               21 repos            █████████████░░░░░░░░░░░░   53.85 % 
-HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JavaScript               21 repos            █████████████░░░░░░░░░░░░   52.50 % 
+HTML                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 31/05/2026 04:07:06 UTC
+ Last Updated on 01/06/2026 04:21:32 UTC
 <!--END_SECTION:waka-->
 
 <hr style="border: none; height: 1px; background-color: white; width: 100%;" />
