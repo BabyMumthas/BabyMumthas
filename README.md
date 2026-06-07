@@ -132,45 +132,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                111 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-🌃 Evening                308 commits         ████████████░░░░░░░░░░░░░   47.83 % 
-🌙 Night                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   152 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Tuesday                  81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Friday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Saturday                 99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Sunday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -184,7 +145,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 03:45:29 UTC
+ Last Updated on 07/06/2026 04:12:53 UTC
 <!--END_SECTION:waka-->
 
 <hr style="border: none; height: 1px; background-color: white; width: 100%;" />
