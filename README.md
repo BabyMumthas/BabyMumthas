@@ -116,13 +116,15 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%201%20min-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.47%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 201.1 kB Used in GitHub's Storage 
+> 📦 202.2 kB Used in GitHub's Storage 
  > 
-> 🏆 401 Contributions in the Year 2026
+> 🏆 402 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -130,6 +132,45 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌆 Daytime                244 commits         ████████░░░░░░░░░░░░░░░░░   32.19 % 
+🌃 Evening                325 commits         ███████████░░░░░░░░░░░░░░   42.88 % 
+🌙 Night                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   164 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Wednesday                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Thursday                 87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Saturday                 116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Sunday                   127 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -143,7 +184,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:50:57 UTC
+ Last Updated on 26/07/2026 03:15:08 UTC
 <!--END_SECTION:waka-->
 
 <hr style="border: none; height: 1px; background-color: white; width: 100%;" />
