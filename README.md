@@ -116,17 +116,13 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%201%20min-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 202.2 kB Used in GitHub's Storage 
  > 
-> 🏆 463 Contributions in the Year 2026
+> 🏆 473 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,51 +130,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-🌆 Daytime                260 commits         ████████░░░░░░░░░░░░░░░░░   31.75 % 
-🌃 Evening                360 commits         ███████████░░░░░░░░░░░░░░   43.96 % 
-🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   172 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Tuesday                  96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Wednesday                113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Thursday                 87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Saturday                 134 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Sunday                   143 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -192,7 +143,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:45:24 UTC
+ Last Updated on 07/08/2026 02:47:11 UTC
 <!--END_SECTION:waka-->
 
 <hr style="border: none; height: 1px; background-color: white; width: 100%;" />
