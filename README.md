@@ -49,6 +49,59 @@
 </p>
 <hr style="border: none; height: 1px; background-color: white; width: 100%;" />
 
+
+## 🏆 Achievements
+
+- 🥇 **1st Prize – TinkerHack 4.0 Hackathon | Ranked among the Top 300 Makers across Kerala**
+- 🥉 **3rd Place – HackEuropa 2.0 Hackathon**
+- 🏅 **Top 10 Finalist among 99 teams – TechSprint, GDG SOE CUSAT (2026)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 Missing Person AI
+
+**AI-powered missing person support system** using facial recognition and real-time case management.
+
+- 👤 Missing-person reporting with image upload
+- 📊 Officer dashboard for case management and analytics
+- 🤖 Gemini-powered chatbot for user guidance
+- 📱 WhatsApp alerts for possible matches
+- 🛠️ **Tech:** Python, FastAPI, DeepFace, OpenCV, Gemini API, SQLite, Twilio
+
+
+
+---
+
+### ♿ Inclusive Learning Assistant
+
+**AI-powered accessibility learning platform** designed to support dyslexic learners and beginners learning sign language.
+
+- 📖 AI text simplification and visual explanations
+- 🔊 Reading assistant and voice notes
+- 🤟 Sign language recognition using MediaPipe & Random Forest
+- 🎮 Gamified sign language learning
+- 🤖 Gemini-powered quizzes and feedback
+- 🛠️ **Tech:** Python, FastAPI, Gemini API, MediaPipe, Scikit-learn, JavaScript
+
+
+---
+
+### 💸 Nexo – Personal Finance Tracker
+
+**Smart personal finance and budget tracking application** with automated expense detection.
+
+- 🔐 Firebase Authentication and Cloud Firestore synchronization
+- 📊 Expense, income, transfer and budget tracking
+- 📈 Interactive financial charts using `fl_chart`
+- 📩 Automatic expense detection from bank SMS and payment notifications
+- 📱 Responsive Flutter application with web deployment
+- 🛠️ **Tech:** Flutter, Dart, Firebase, Firestore, Vercel
+
+
+---
+
 ### 🛠️ Languages & Tools
 
 <div align="left">
